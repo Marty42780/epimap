@@ -5,7 +5,7 @@
    viewBox="0 0 2300 1150"
    id="svg2"
    version="1.1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="vj-va-f0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -399,25 +399,40 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5216904"
-     inkscape:cx="1703.6191"
-     inkscape:cy="894.24142"
+     inkscape:zoom="0.33989708"
+     inkscape:cx="1297.4516"
+     inkscape:cy="803.1843"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1908"
-     inkscape:window-height="1040"
+     inkscape:window-width="2048"
+     inkscape:window-height="1083"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid12"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -497,14 +512,15 @@
        id="path156246"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1558.0421,551.76274 278.2276,0.0779 m 76.7586,0.0831 32.8491,-0.20492"
+       style="fill:none;stroke:#000000;stroke-width:2.95685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1342.6174,551.38598 487.9756,0.0431"
        id="path156244"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1484.412,343.14544 0.032,208.4615 28.9419,0.0779"
-       id="path156242" />
+       style="fill:none;stroke:#000000;stroke-width:2.75088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1904.5205,551.28323 73.0467,0.24914"
+       id="path156244-4"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1484.4702,241.15411 -0.077,-80.18279 152.4813,0.002"
@@ -674,41 +690,14 @@
        id="path156156"
        sodipodi:nodetypes="cc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1.54121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1343.0975,363.15196 V 444.9782"
+       id="path156154"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1793.7859,550.52544 -0.01,-309.76651"
        id="path156152"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1713.7807,291.11607 V 240.04464"
-       id="path156150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1794.495,380.04464 h -80.7143 v -53.57143"
-       id="path156148" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1755.2093,326.1775 v 52.87701"
-       id="path156146"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1755.2093,240.75893 0.05,49.04879"
-       id="path156144"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1554.6736,447.47321 h 37.6786 l -0.062,103.00041"
-       id="path156142"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1483.0664,447.47321 h 33.9286"
-       id="path156140" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1715.2124,550.47767 -0,-91.57588"
-       id="path156138"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -773,6 +762,11 @@
        d="m -137.10326,455.61607 h 79.712782 m -80.075942,-14.20636 h 80.4391 m -80.16673,-14.20634 h 79.89436 M -137.01247,412.997 h 79.531203 m -79.621993,-14.20631 h 79.712782 m -79.894362,-14.20636 h 80.075939 M -136.92168,370.378 h 79.349625 m -79.349625,-14.20636 h 79.349625 m -79.894365,-14.20637 h 80.4391 m -80.71146,-14.20634 h 80.983825"
        inkscape:connector-curvature="0" />
     <path
+       id="path4945-3"
+       style="fill:none;stroke:#000000;stroke-width:1.42607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -214.77137,455.51797 h 79.71278 m -80.07594,-14.20636 h 80.4391 m -80.16673,-14.20634 h 79.89436 m -79.71278,-14.20637 h 79.5312 m -79.62199,-14.20631 h 79.71278 m -79.89436,-14.20636 h 80.07594 m -79.71278,-14.20633 h 79.34963 m -79.34963,-14.20636 h 79.34963 m -79.89437,-14.20637 h 80.4391 m -80.71146,-14.20634 h 80.98382"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
        id="path4945-9"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -828,46 +822,57 @@
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="1797.9028"
-       y="837.09564"
+       x="1799.0925"
+       y="859.69952"
        id="text1160"><tspan
          sodipodi:role="line"
          id="tspan1158"
-         x="1797.9028"
-         y="837.09564"
+         x="1799.0925"
+         y="859.69952"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'">Mathématiques</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
        x="1067.4739"
-       y="858.80322"
+       y="823.61835"
        id="text1160-4"><tspan
          sodipodi:role="line"
          id="tspan1158-3"
          x="1067.4739"
-         y="858.80322"
+         y="823.61835"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'">Secrétariat Pédagogique</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="1175.0554"
-       y="892.14099"
+       x="1176.6647"
+       y="881.6001"
        id="text1160-4-7"><tspan
+         sodipodi:role="line"
+         x="1176.6647"
+         y="881.6001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         id="tspan1">Imane Fellah</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
+       x="1176.5527"
+       y="903.77954"
+       id="text1160-4-7-0"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
          sodipodi:role="line"
-         id="tspan1200"
-         x="1175.0554"
-         y="892.14099">Chantal Schmitt</tspan><tspan
+         id="tspan1200-6"
+         x="1176.5527"
+         y="903.77954">Chantal Schmitt</tspan><tspan
          sodipodi:role="line"
-         x="1175.0554"
-         y="910.4209"
+         x="1176.5527"
+         y="922.05945"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan1198" /><tspan
+         id="tspan1198-1" /><tspan
          sodipodi:role="line"
-         x="1175.0554"
-         y="928.70087"
+         x="1176.5527"
+         y="940.33942"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan1" /></text>
+         id="tspan1-5" /></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -878,18 +883,7 @@
          id="tspan1158-3-8"
          x="1362.7545"
          y="859.34381"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'">Direction</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="1402.739"
-       y="896.69287"
-       id="text1160-4-7-7"><tspan
-         sodipodi:role="line"
-         x="1402.739"
-         y="896.69287"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan1243">Marie Diot</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'" /></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -925,6 +919,17 @@
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
+       x="1403.1077"
+       y="885.27582"
+       id="text1160-4-7-7-2-6"><tspan
+         sodipodi:role="line"
+         x="1403.1077"
+         y="885.27582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
+         id="tspan1276-3"> Max Testemale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
        x="1560.0776"
        y="812.65216"
        id="text1160-4-0-9-0"><tspan
@@ -933,6 +938,17 @@
          y="812.65216"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle"
          id="tspan1272-4">Algorithmique</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
+       x="1403.0797"
+       y="853.00482"
+       id="text1160-4-0-9-0-2"><tspan
+         sodipodi:role="line"
+         x="1403.0797"
+         y="853.00482"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle"
+         id="tspan1272-4-72">Anglais</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -953,13 +969,18 @@
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
        x="1712.1001"
-       y="859.46143"
+       y="853.46143"
        id="text1160-4-0-9-0-5"><tspan
          sodipodi:role="line"
          x="1712.1001"
-         y="859.46143"
+         y="853.46143"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle"
-         id="tspan1272-4-7">Algorithmique</tspan></text>
+         id="tspan1272-4-7">Direction</tspan><tspan
+         sodipodi:role="line"
+         x="1712.1001"
+         y="871.74133"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle"
+         id="tspan12">pédagogique</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -979,34 +1000,19 @@
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:17.93px;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="1867.0754"
-       y="870.86151"
+       x="1866.2823"
+       y="897.82758"
        id="text1160-4-7-7-2-2-4-4"><tspan
          sodipodi:role="line"
-         x="1867.0754"
-         y="870.86151"
+         x="1866.2823"
+         y="897.82758"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan1345-4">Christel </tspan><tspan
+         id="tspan1345-4">Tremoulet</tspan><tspan
          sodipodi:role="line"
-         x="1867.0754"
-         y="889.14142"
+         x="1866.2823"
+         y="917.81592"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan3">Tremoulet</tspan><tspan
-         sodipodi:role="line"
-         x="1867.0754"
-         y="907.42139"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan1370" /><tspan
-         sodipodi:role="line"
-         x="1867.0754"
-         y="925.70129"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan2">Guillaume </tspan><tspan
-         sodipodi:role="line"
-         x="1867.0754"
-         y="943.9812"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle"
-         id="tspan4">Euvrard</tspan></text>
+         id="tspan1370">Euvrard</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -1057,19 +1063,19 @@
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="796.10339"
-       y="328.95364"
+       x="760.90857"
+       y="329.56561"
        id="text1160-4-0-6"><tspan
          sodipodi:role="line"
          id="tspan1158-3-8-8"
-         x="796.10339"
-         y="328.95364"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle">Sécurité</tspan><tspan
+         x="760.90857"
+         y="329.56561"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'">Sécurité</tspan><tspan
          sodipodi:role="line"
-         x="796.10339"
-         y="352.63696"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';text-align:center;text-anchor:middle"
-         id="tspan8">Logistique</tspan></text>
+         x="760.90857"
+         y="353.24893"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'"
+         id="tspan2" /></text>
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
@@ -1084,12 +1090,12 @@
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:1.25;font-family:Bahagia;-inkscape-font-specification:Bahagia"
-       x="82.843208"
-       y="408.62091"
+       x="75.446709"
+       y="412.41718"
        id="text1160-4-0-6-3-5-2"><tspan
          sodipodi:role="line"
-         x="82.843208"
-         y="408.62091"
+         x="75.446709"
+         y="412.41718"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'"
          id="tspan1403-8">VA02</tspan></text>
     <path
@@ -1114,15 +1120,6 @@
        id="path2487" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1513.3859,551.68484 44.6562,0.0779"
-       id="path2489" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1554.6736,447.47321 h -37.6786 m -32.7464,-158.01639 -0.064,54.48552"
-       id="path2491"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 985.21826,241.30686 -71.4015,0.005"
        id="path2493" />
     <path
@@ -1133,19 +1130,10 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1219.436,241.29486 74.2721,-0.002"
        id="path2497" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1484.3273,291.16314 V 240.09171"
-       id="path156150-8" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 1713.6271,327.48478 V 290.5272 m 41.6216,36.44275 0.023,-37.49084"
-       id="path2491-7"
-       sodipodi:nodetypes="cccc" />
     <a
        id="a16176-9"
        xlink:href="vj-va-f1.svg"
-       transform="matrix(-3.1047118,0,0,3.1047118,64.789524,-417.79127)">
+       transform="matrix(-3.1047118,0,0,3.1047118,64.789524,-418.78776)">
       <path
          id="rect1968-4-8-4-3-6"
          style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1.11227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1157,6 +1145,15 @@
        transform="matrix(3.0754589,0,0,3.0754589,1670.8111,-410.64184)">
       <path
          id="rect1968-4-8-1-4-1-4"
+         style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1.11803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 60.543363,217.84993 c 1.1662,0 2.10641,0.94022 2.10641,2.10648 v 15.64071 c 0,1.16626 -0.94021,2.10647 -2.10641,2.10647 h -16.43493 c -1.16619,0 -2.1064,-0.94021 -2.1064,-2.10647 v -15.64071 c 0,-1.16626 0.94021,-2.10648 2.1064,-2.10648 z m -1.33386,3.04168 -3.81892,0.0491 -0.009,3.21184 h -3.19804 v 3.24864 h -3.21342 l -0.0537,3.25631 -3.11679,0.0399 -0.0491,3.89101 1.42892,0.0184 0.0307,-2.49895 3.11223,-0.0399 0.0535,-3.23791 h 3.23791 v -3.24711 h 3.19497 l 0.008,-3.23178 2.4116,-0.0307 z m -1.29697,7.90314 a 0.51781066,0.51781066 0 0 0 -0.44616,0.14717 l -3.53682,3.57059 v -1.45798 a 0.51781066,0.51781066 0 0 0 -0.51665,-0.51665 0.51781066,0.51781066 0 0 0 -0.51823,0.51665 v 2.68753 a 0.51781066,0.51781066 0 0 0 0,0.0567 v 0.48753 h 3.23179 a 0.51781066,0.51781066 0 0 0 0.51665,-0.51819 0.51781066,0.51781066 0 0 0 -0.51665,-0.51666 h -1.4764 l 3.54914,-3.58132 a 0.51781066,0.51781066 0 0 0 0,-0.73129 0.51781066,0.51781066 0 0 0 -0.28667,-0.14411 z" />
+    </a>
+    <a
+       id="a5575-3-5"
+       xlink:href="vj-va-f-1.svg"
+       transform="matrix(3.0754589,0,0,3.0754589,-333.84603,-415.04071)">
+      <path
+         id="rect1968-4-8-1-4-1-4-0"
          style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1.11803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          d="m 60.543363,217.84993 c 1.1662,0 2.10641,0.94022 2.10641,2.10648 v 15.64071 c 0,1.16626 -0.94021,2.10647 -2.10641,2.10647 h -16.43493 c -1.16619,0 -2.1064,-0.94021 -2.1064,-2.10647 v -15.64071 c 0,-1.16626 0.94021,-2.10648 2.1064,-2.10648 z m -1.33386,3.04168 -3.81892,0.0491 -0.009,3.21184 h -3.19804 v 3.24864 h -3.21342 l -0.0537,3.25631 -3.11679,0.0399 -0.0491,3.89101 1.42892,0.0184 0.0307,-2.49895 3.11223,-0.0399 0.0535,-3.23791 h 3.23791 v -3.24711 h 3.19497 l 0.008,-3.23178 2.4116,-0.0307 z m -1.29697,7.90314 a 0.51781066,0.51781066 0 0 0 -0.44616,0.14717 l -3.53682,3.57059 v -1.45798 a 0.51781066,0.51781066 0 0 0 -0.51665,-0.51665 0.51781066,0.51781066 0 0 0 -0.51823,0.51665 v 2.68753 a 0.51781066,0.51781066 0 0 0 0,0.0567 v 0.48753 h 3.23179 a 0.51781066,0.51781066 0 0 0 0.51665,-0.51819 0.51781066,0.51781066 0 0 0 -0.51665,-0.51666 h -1.4764 l 3.54914,-3.58132 a 0.51781066,0.51781066 0 0 0 0,-0.73129 0.51781066,0.51781066 0 0 0 -0.28667,-0.14411 z" />
     </a>
@@ -1193,24 +1190,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
-       x="1118.6177"
-       y="938.89813"
+       x="1116.8379"
+       y="926.62769"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         x="1118.6177"
-         y="938.89813">Violette Simon</tspan></text>
+         x="1116.8379"
+         y="926.62769">Violette Simon</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
-       x="1103.5483"
-       y="915.89764"
+       x="1103.2859"
+       y="858.83411"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         x="1103.5483"
-         y="915.89764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible'">Stéphanie Durelle</tspan></text>
+         x="1103.2859"
+         y="858.83411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Stéphanie Durelle</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000"
@@ -1222,5 +1219,37 @@
          x="796.80139"
          y="494.35516"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold'">Imprimante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:44px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff"
+       x="1364.9569"
+       y="833.16901"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="1364.9569"
+         y="833.16901" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:44px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000"
+       x="1564.0139"
+       y="401.79977"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="1564.0139"
+         y="401.79977"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Cafétaria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e3dbdb"
+       x="797.17261"
+       y="355.37881"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="797.17261"
+         y="355.37881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Logistique</tspan></text>
   </g>
 </svg>
